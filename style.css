@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(252, 244, 220);
+}
+
+.head_h1{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 24px;
+  text-align: center;
+}
+
+li{
+    width: 200px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+img{
+    border-radius: 10%;
+}
+.link{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
