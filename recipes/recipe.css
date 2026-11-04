@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(252, 244, 220);
+}
+
+img{
+    border-radius: 10%;
+}
+
+.head{
+    display: flex;
+    gap: 20px;
+}
+
+.About{
+    display: flex;
+    align-items: center;
+}
+
+h1, .wrap{
+    text-align: center;
+}
+
+a{  
+    background-color: rgb(120, 165, 234);
+    border-radius: 10%;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: white;
+}
